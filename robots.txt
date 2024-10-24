@@ -1,0 +1,3 @@
+User-agend: *
+Allow: /
+Sitemap: https://elvinameow.github.io/Mountainstour/sitemap.xml
